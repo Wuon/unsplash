@@ -1,0 +1,15 @@
+.post-creator {
+  font-size: 12px;
+  color: #8893A0;
+  margin-top: -20px;
+}
+
+.post-image {
+  width: 100%;
+  height: auto;
+  border-radius: 3px;
+}
+
+.post-like {
+  background-color: #ff6961;
+}

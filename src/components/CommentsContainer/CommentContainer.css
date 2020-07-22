@@ -1,0 +1,12 @@
+.comments-container-height-adjust {
+  margin-top: 16px;
+}
+
+.comments-container {
+  margin-top: 4px;
+  border: 1px solid #BDC4CD;
+  border-radius: 3px;
+  margin-bottom: 8px;
+  height: 175px;
+  overflow-y: scroll;
+}

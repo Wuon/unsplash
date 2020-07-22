@@ -1,0 +1,13 @@
+.comment-container {
+  padding: 4px 8px;
+  border-bottom: 1px solid #BDC4CD;
+}
+
+.comment-container:last-child {
+  border: none;
+}
+
+.comment-user {
+  color: #8893A0;
+  font-size: 12px;
+}
